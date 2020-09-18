@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ihma/static/css/main.e8929d09.chunk.css",
-    "main.js": "/ihma/static/js/main.6b1cb50e.chunk.js",
-    "main.js.map": "/ihma/static/js/main.6b1cb50e.chunk.js.map",
+    "main.css": "/ihma/static/css/main.ecd160c5.chunk.css",
+    "main.js": "/ihma/static/js/main.384d0de5.chunk.js",
+    "main.js.map": "/ihma/static/js/main.384d0de5.chunk.js.map",
     "runtime-main.js": "/ihma/static/js/runtime-main.68f2be7b.js",
     "runtime-main.js.map": "/ihma/static/js/runtime-main.68f2be7b.js.map",
-    "static/js/2.5dab4244.chunk.js": "/ihma/static/js/2.5dab4244.chunk.js",
-    "static/js/2.5dab4244.chunk.js.map": "/ihma/static/js/2.5dab4244.chunk.js.map",
+    "static/js/2.43265149.chunk.js": "/ihma/static/js/2.43265149.chunk.js",
+    "static/js/2.43265149.chunk.js.map": "/ihma/static/js/2.43265149.chunk.js.map",
     "index.html": "/ihma/index.html",
-    "precache-manifest.bda226b5ffc38353c88e6416a33e7727.js": "/ihma/precache-manifest.bda226b5ffc38353c88e6416a33e7727.js",
+    "precache-manifest.dc6ddabe39ccaa005b54886c25249cd9.js": "/ihma/precache-manifest.dc6ddabe39ccaa005b54886c25249cd9.js",
     "service-worker.js": "/ihma/service-worker.js",
-    "static/css/main.e8929d09.chunk.css.map": "/ihma/static/css/main.e8929d09.chunk.css.map",
-    "static/js/2.5dab4244.chunk.js.LICENSE.txt": "/ihma/static/js/2.5dab4244.chunk.js.LICENSE.txt",
+    "static/css/main.ecd160c5.chunk.css.map": "/ihma/static/css/main.ecd160c5.chunk.css.map",
+    "static/js/2.43265149.chunk.js.LICENSE.txt": "/ihma/static/js/2.43265149.chunk.js.LICENSE.txt",
     "static/media/DiegoMax.png": "/ihma/static/media/DiegoMax.aeea265d.png",
     "static/media/JesusMendoza.png": "/ihma/static/media/JesusMendoza.44000f82.png",
     "static/media/JorgeArias.png": "/ihma/static/media/JorgeArias.c6efab94.png",
@@ -19,10 +19,12 @@
     "static/media/Logo.svg": "/ihma/static/media/Logo.56e7afa7.svg",
     "static/media/MauricioCampos.png": "/ihma/static/media/MauricioCampos.11ccc365.png",
     "static/media/MauricioCamposRedondo.png": "/ihma/static/media/MauricioCamposRedondo.293642f0.png",
+    "static/media/alianzasImg.png": "/ihma/static/media/alianzasImg.aaa66ff8.png",
+    "static/media/alianzasLogo.png": "/ihma/static/media/alianzasLogo.3ae75bea.png",
     "static/media/angelMexico.png": "/ihma/static/media/angelMexico.76230f72.png",
     "static/media/EquipoLegal.scss": "/ihma/static/media/areasDecorateLittle.8f2a7330.png",
     "static/media/clientesDecorate.png": "/ihma/static/media/clientesDecorate.ac046721.png",
-    "static/media/Clientes.scss": "/ihma/static/media/clientesDecorateLittle.27b3aeeb.png",
+    "static/media/Alianzas.scss": "/ihma/static/media/clientesDecorateLittle.27b3aeeb.png",
     "static/media/grisTextura.png": "/ihma/static/media/grisTextura.2d4ce33b.png",
     "static/media/leftEquipoLegal.png": "/ihma/static/media/leftEquipoLegal.a3d3350d.png",
     "static/media/logoHero.png": "/ihma/static/media/logoHero.5ee1373c.png",
@@ -33,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.68f2be7b.js",
-    "static/js/2.5dab4244.chunk.js",
-    "static/css/main.e8929d09.chunk.css",
-    "static/js/main.6b1cb50e.chunk.js"
+    "static/js/2.43265149.chunk.js",
+    "static/css/main.ecd160c5.chunk.css",
+    "static/js/main.384d0de5.chunk.js"
   ]
 }

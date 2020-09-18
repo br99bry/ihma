@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30cf3637317170c2adcd5d4fbe5da57e",
+    "revision": "23706ca15dee13cb1141ba9977cd482e",
     "url": "/ihma/index.html"
   },
   {
-    "revision": "39ce50dca4c090aac5b4",
-    "url": "/ihma/static/css/main.e8929d09.chunk.css"
+    "revision": "2fd22844f262c2184a9d",
+    "url": "/ihma/static/css/main.ecd160c5.chunk.css"
   },
   {
-    "revision": "0a9effd359e624232666",
-    "url": "/ihma/static/js/2.5dab4244.chunk.js"
+    "revision": "f0db0e5ae77ac15af9e0",
+    "url": "/ihma/static/js/2.43265149.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/ihma/static/js/2.5dab4244.chunk.js.LICENSE.txt"
+    "url": "/ihma/static/js/2.43265149.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "39ce50dca4c090aac5b4",
-    "url": "/ihma/static/js/main.6b1cb50e.chunk.js"
+    "revision": "2fd22844f262c2184a9d",
+    "url": "/ihma/static/js/main.384d0de5.chunk.js"
   },
   {
     "revision": "575b84491f6bc552df76",
@@ -50,6 +50,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "293642f0c5028fba20db456e28ae9d5a",
     "url": "/ihma/static/media/MauricioCamposRedondo.293642f0.png"
+  },
+  {
+    "revision": "aaa66ff83edfd64cc49249b028ae1b8f",
+    "url": "/ihma/static/media/alianzasImg.aaa66ff8.png"
+  },
+  {
+    "revision": "3ae75bea7c2aaf871434fb0ee9ef4361",
+    "url": "/ihma/static/media/alianzasLogo.3ae75bea.png"
   },
   {
     "revision": "76230f72b5fdca7f1200f4a943575347",
