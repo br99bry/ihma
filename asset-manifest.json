@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ihma/static/css/main.ecd160c5.chunk.css",
-    "main.js": "/ihma/static/js/main.384d0de5.chunk.js",
-    "main.js.map": "/ihma/static/js/main.384d0de5.chunk.js.map",
+    "main.css": "/ihma/static/css/main.a651f390.chunk.css",
+    "main.js": "/ihma/static/js/main.e5b61a8f.chunk.js",
+    "main.js.map": "/ihma/static/js/main.e5b61a8f.chunk.js.map",
     "runtime-main.js": "/ihma/static/js/runtime-main.68f2be7b.js",
     "runtime-main.js.map": "/ihma/static/js/runtime-main.68f2be7b.js.map",
-    "static/js/2.43265149.chunk.js": "/ihma/static/js/2.43265149.chunk.js",
-    "static/js/2.43265149.chunk.js.map": "/ihma/static/js/2.43265149.chunk.js.map",
+    "static/js/2.4a31a4d3.chunk.js": "/ihma/static/js/2.4a31a4d3.chunk.js",
+    "static/js/2.4a31a4d3.chunk.js.map": "/ihma/static/js/2.4a31a4d3.chunk.js.map",
     "index.html": "/ihma/index.html",
-    "precache-manifest.dc6ddabe39ccaa005b54886c25249cd9.js": "/ihma/precache-manifest.dc6ddabe39ccaa005b54886c25249cd9.js",
+    "precache-manifest.206bbc351612ff333a8e0c9653d1acb9.js": "/ihma/precache-manifest.206bbc351612ff333a8e0c9653d1acb9.js",
     "service-worker.js": "/ihma/service-worker.js",
-    "static/css/main.ecd160c5.chunk.css.map": "/ihma/static/css/main.ecd160c5.chunk.css.map",
-    "static/js/2.43265149.chunk.js.LICENSE.txt": "/ihma/static/js/2.43265149.chunk.js.LICENSE.txt",
+    "static/css/main.a651f390.chunk.css.map": "/ihma/static/css/main.a651f390.chunk.css.map",
+    "static/js/2.4a31a4d3.chunk.js.LICENSE.txt": "/ihma/static/js/2.4a31a4d3.chunk.js.LICENSE.txt",
     "static/media/DiegoMax.png": "/ihma/static/media/DiegoMax.aeea265d.png",
     "static/media/JesusMendoza.png": "/ihma/static/media/JesusMendoza.44000f82.png",
     "static/media/JorgeArias.png": "/ihma/static/media/JorgeArias.c6efab94.png",
@@ -19,6 +19,7 @@
     "static/media/Logo.svg": "/ihma/static/media/Logo.56e7afa7.svg",
     "static/media/MauricioCampos.png": "/ihma/static/media/MauricioCampos.11ccc365.png",
     "static/media/MauricioCamposRedondo.png": "/ihma/static/media/MauricioCamposRedondo.293642f0.png",
+    "static/media/ReconocimientosImg.png": "/ihma/static/media/ReconocimientosImg.b798d5f9.png",
     "static/media/alianzasImg.png": "/ihma/static/media/alianzasImg.aaa66ff8.png",
     "static/media/alianzasLogo.png": "/ihma/static/media/alianzasLogo.3ae75bea.png",
     "static/media/angelMexico.png": "/ihma/static/media/angelMexico.76230f72.png",
@@ -30,13 +31,16 @@
     "static/media/logoHero.png": "/ihma/static/media/logoHero.5ee1373c.png",
     "static/media/mainBottom.png": "/ihma/static/media/mainBottom.aea193fc.png",
     "static/media/mapa.png": "/ihma/static/media/mapa.a6c07d37.png",
+    "static/media/reco1.png": "/ihma/static/media/reco1.d8c65ecc.png",
+    "static/media/reco2.png": "/ihma/static/media/reco2.2f48164e.png",
+    "static/media/reco3.png": "/ihma/static/media/reco3.69db8382.png",
     "static/media/socioDecoration.png": "/ihma/static/media/socioDecoration.67e42004.png",
     "static/media/Socios.scss": "/ihma/static/media/socioDecorationLittle.26134d56.png"
   },
   "entrypoints": [
     "static/js/runtime-main.68f2be7b.js",
-    "static/js/2.43265149.chunk.js",
-    "static/css/main.ecd160c5.chunk.css",
-    "static/js/main.384d0de5.chunk.js"
+    "static/js/2.4a31a4d3.chunk.js",
+    "static/css/main.a651f390.chunk.css",
+    "static/js/main.e5b61a8f.chunk.js"
   ]
 }
